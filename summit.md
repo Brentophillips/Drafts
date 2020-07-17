@@ -1,4 +1,4 @@
-![](https://github.com/Brentophillips/Drafts/blob/master/summitpic.png)
+![](https://github.com/Brentophillips/Drafts/blob/master/sprintsummit.png)
 
 In partnership with **Undeline.io** the Humanitarian AI meetup community is organizing a three track virtual summit for builders of humanitarian AI applications.
 
