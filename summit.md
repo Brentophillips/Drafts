@@ -8,6 +8,7 @@ Tracks:
 * Graphing Humanitarian Data (Oct 21)
 * Humanitarian AI Applications Development (Oct 29)
 
+Humanitarian AI can't be advanced without coordination, collaboration and objectives between the tech and humanitariab communities... Geared for AI developers, the three track summit will highlight data sources able to help power humanitarian AI applications, discussion cutting ege ways of storing humanitarian data and then dive into applications development and needs in the field.
 
 Notes:
 
