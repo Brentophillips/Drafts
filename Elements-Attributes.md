@@ -1,6 +1,6 @@
 # IATI Elements and Attributes 
 
-This microproject will generate a correlation table listing IATI information fields (XML elements and attributes) and field versions that are JSON and graph database compatable. This project will support two connected projects, one looking at how IATI data can be converted to JSON ([IATI-JSON]()) and another looking at how IATI data can be stored in a graph database ([IATI-Graph]()).
+This microproject will generate a correlation table listing IATI information fields (XML elements and attributes) and corresponding field versions that are JSON and graph database compatable. This project will support two connected projects, one looking at how IATI data can be converted to JSON ([IATI-JSON]()) and another looking at how IATI data can be stored in a graph database ([IATI-Graph]()).
 
 ## Get Involved
 
