@@ -21,13 +21,21 @@ Volunteers are needed to:
 * [IATI Fields]()
 * [Example XML File]()
 
-## Milestones
+## How to Contribute
 
-For project will undertake to:
+* Via GitHub, checkout and add content to project files then push changes and/or start issues and/or add comments to issues
+* Follow the project's Slack channel and contribute to discussions
 
-* Start and populate field files
-* Identify and list formatting issues
-* Create a conversion table
+## Get Involved
 
+Even if you do not plan to contribute to this specific projects, we'd be happy to have you involved:
 
+* Join our community's [Slack Workspace] and [Discourse Forum] 
+* Follow our community's podcast series: [Humanitarian AI Today]()
+* Contribute code and insight and participate in discussions
+* Give a lightning talk to members on a relevant subject, contact: team (at) humanitarianai.org
+
+## License
+
+Volunteer projects launched by the Humanitarian AI Meetup Group Community are licensed as [MIT]()
 
