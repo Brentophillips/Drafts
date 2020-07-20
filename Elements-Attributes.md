@@ -4,12 +4,13 @@
 
 This project will support two connected projects, one researching how IATI XML data can be converted into JSON ([IATI-JSON]()) and another looking at how IATI data can be extracted and stored in a Neo4j graph database ([IATI-Graph]()).
 
-## Get Involved
+## Tasks
 
-Volunteers are inveted to:
+Before contributing, volunteers are encourged to [sign-up]() to join the community's team on GitHub and our workspace on Slack and follow this project's Slack channel.
 
-* Create an up-to-date list of IATI XML elements and attributes
-* Convert these into JSON versions that can symultaniously be used to store data in a Neo4j graph database.
+Task-wise, help is needed to:
+* Create and maintain an up-to-date list of IATI XML elements and attributes
+* Research and convert IATI fields into JSON and Neo4j compatible versions
 * Help research and list possible new IATI XML fields and add these to the conversion table
 * Examine IATI codelist properties (attributes) and values and try to identify values that might cause database errors
 
