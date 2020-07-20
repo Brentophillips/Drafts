@@ -2,11 +2,11 @@
 
 **Humanitarian AI community microproject** focusing on creating a **correlation table** listing IATI information fields (XML elements and attributes) and corresponding JSON and Neo4j compatable versions of the fields.
 
-This project will support two connected projects, one looking at how IATI XML data can be converted into JSON ([IATI-JSON]()), researching and taking into consideration formatting issues, and another looking at how a clone of IATI's entire corpus can be stored in a Neo4j graph database ([IATI-Graph]()).
+This project will support two connected projects, one researching how IATI XML data can be converted into JSON ([IATI-JSON]()) and another looking at how IATI data can be extracted and stored in a Neo4j graph database ([IATI-Graph]()).
 
 ## Get Involved
 
-Volunteers are needed to:
+Volunteers are inveted to:
 
 * Create an up-to-date list of IATI XML elements and attributes
 * Convert these into JSON versions that can symultaniously be used to store data in a Neo4j graph database.
