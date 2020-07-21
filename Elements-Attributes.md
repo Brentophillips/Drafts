@@ -1,4 +1,4 @@
-# IATI Data Fields (Elements and Attributes) List 
+# IATI XML to JSON Corellation Table
 
 **Humanitarian AI community microproject** focusing on creating a **correlation table** listing IATI information fields (XML elements and attributes) and corresponding JSON and Neo4j compatible versions of the fields.
 
