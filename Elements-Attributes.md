@@ -2,7 +2,7 @@
 
 **Humanitarian AI community microproject** focusing on creating a **correlation table** listing IATI information fields (XML elements and attributes) and corresponding JSON and Neo4j compatible versions of the fields.
 
-This project will support two connected projects, one researching how IATI XML data can be converted into JSON ([IATI-JSON]()) and another looking at how IATI data can be extracted and stored in a Neo4j graph database ([IATI-Graph]()).
+This project will support two connected projects, one researching how IATI XML data can be converted into JSON ([IATI-JSON](https://github.com/Humanitarian-AI/IATI-JSON)) and another looking at how IATI data can be extracted and stored in a Neo4j graph database ([IATI-Graph](https://github.com/Humanitarian-AI/IATI-Graph)).
 
 ## Contribute
 
@@ -20,10 +20,11 @@ This project will support two connected projects, one researching how IATI XML d
 
 ## Resources
 
-* IATI's [Organization]() and [Activity]() elements and codelists: [more information](), 
-* Example [Organization]() and [Activity]() files
+* IATI's [Organization](https://iatistandard.org/en/iati-standard/203/organisation-standard/summary-table/) and [Activity](https://iatistandard.org/en/iati-standard/203/activity-standard/summary-table/) elements and codelists: [more information](https://iatistandard.org/en/iati-standard/), 
+* Example [Organization](https://iatistandard.org/en/iati-standard/203/organisation-standard/example-xml/) and [Activity](https://iatistandard.org/en/iati-standard/203/activity-standard/example-xml/) files
+* Any questions? Contact the repository moderator via Slack or email: team (at) humanitarianai.org
 
 ## License
 
-Volunteer projects launched by the Humanitarian AI Meetup Group Community are licensed as [MIT]()
+Volunteer projects launched by the Humanitarian AI Meetup Group Community are licensed as [MIT](https://opensource.org/licenses/MIT)
 
