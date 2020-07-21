@@ -4,11 +4,14 @@
 
 This project will support two connected projects, one researching how IATI XML data can be converted into JSON ([IATI-JSON]()) and another looking at how IATI data can be extracted and stored in a Neo4j graph database ([IATI-Graph]()).
 
-## Tasks
+## Contribute
 
-Before contributing, volunteers are encourged to [sign-up]() to join the community's team on GitHub and our workspace on Slack and follow this project's Slack channel.
+* [sign-up]() to join the community's workspace on Slack and follow this project's Slack channel
+* "Watch" this repository on GitHub
+* Fork this repository, commit and push some changes ([tutorial](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/) for beginners) or add some issues
 
-Task-wise, help is needed to:
+### Tasks
+
 * Create and maintain an up-to-date list of IATI XML elements and attributes
 * Research and convert IATI fields into JSON and Neo4j compatible versions
 * Help research and list possible new IATI XML fields and add these to the conversion table
@@ -23,20 +26,6 @@ Task-wise, help is needed to:
 
 * [IATI Fields]()
 * [Example XML File]()
-
-## How to Contribute
-
-* Via GitHub, checkout and add content to project files then push changes and/or start issues and/or add comments to issues
-* Follow the project's Slack channel and contribute to discussions
-
-## Get Involved
-
-Even if you do not plan to contribute to this specific projects, we'd be happy to have you involved:
-
-* Join our community's [Slack Workspace] and [Discourse Forum] 
-* Follow our community's podcast series: [Humanitarian AI Today]()
-* Contribute code and insight and participate in discussions
-* Give a lightning talk to members on a relevant subject, contact: team (at) humanitarianai.org
 
 ## License
 
