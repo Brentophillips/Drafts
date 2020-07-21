@@ -19,7 +19,7 @@ This project will support two connected projects, one researching how IATI XML d
 
 ## Resources
 
-* IATI's [Organization]() and [Activity]() elements and [more information]()
+* IATI's [Organization]() and [Activity]() elements and codelists: [more information](), 
 * Example [Organization]() and [Activity]() files
 
 ## License
